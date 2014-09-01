@@ -1,0 +1,9 @@
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\bin\Debug\Infrastructure.Core.dll
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\bin\Debug\Infrastructure.Core.pdb
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\obj\Debug\Infrastructure.Core.csprojResolveAssemblyReference.cache
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\obj\Debug\Infrastructure.Core.dll
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\obj\Debug\Infrastructure.Core.pdb
+C:\Users\Efecan\Desktop\efecetirSampleProject\Infrastructure\Core\bin\Debug\Infrastructure.Core.dll
+C:\Users\Efecan\Desktop\efecetirSampleProject\Infrastructure\Core\bin\Debug\Infrastructure.Core.pdb
+C:\Users\Efecan\Desktop\efecetirSampleProject\Infrastructure\Core\obj\Debug\Infrastructure.Core.dll
+C:\Users\Efecan\Desktop\efecetirSampleProject\Infrastructure\Core\obj\Debug\Infrastructure.Core.pdb

@@ -1,0 +1,4 @@
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\bin\Release\Infrastructure.Core.dll
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\bin\Release\Infrastructure.Core.pdb
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\obj\Release\Infrastructure.Core.dll
+D:\RDProjects\EfeTeamInfrastructure\EfeInfrastructure\EEBlogProject\Infrastructure\Core\obj\Release\Infrastructure.Core.pdb
