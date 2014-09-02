@@ -20,6 +20,4 @@ in this project i used technologies which i write down above
 
 If You Would like to start to design your own framework according to SOLID principles. You can start to learn by this framework.
 
-good luck.
-
 http://efecetir.info
