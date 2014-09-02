@@ -5,7 +5,7 @@ My Sample Framework has been prapered according to Repository and Domain Service
 
 before you run the project you should add your db info to web.config of Connection string
 
-in this project i used the which technologies and patterns i used above
+in this project i used technologies which i write down above
 
  - Domain Driven Design, 
  - Repositories, 
